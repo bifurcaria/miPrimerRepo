@@ -1,13 +1,4 @@
 # miPrimerRepo
 
-## otro título
-
-cosas 
-
-### tres gatos
-
-markdown negrita
-*será así*
-_o así_
-~o así~
-**hola**
+[aquí está la cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+hice este link poniendo el título en corchetes y el link en paréntesis
